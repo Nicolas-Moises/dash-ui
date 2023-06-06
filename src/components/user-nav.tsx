@@ -19,7 +19,7 @@ export function UserNav() {
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" className="relative h-10 w-10 rounded-full">
           <Avatar className="h-10 w-10">
-            <AvatarImage src="https://github.com/Nicolas-Moises.png" alt="@NicolasMoises" />
+            <AvatarImage src="" alt="@NicolasMoises" />
             <AvatarFallback>NM</AvatarFallback>
           </Avatar>
         </Button>
